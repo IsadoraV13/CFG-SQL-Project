@@ -3,7 +3,7 @@ I created this project as my individual submission on the Code First Girls 8 wee
 
 QUICK SUMMARY
 - FitLife is an imaginary local gym run on the concept of low fees to encourage everyone to lead a healthy life.
- Members receive a cumulative 3% discount for each week where they attend the gym at least 3 times
+- Members receive a cumulative 3% discount for each week where they attend the gym at least 3 times
 - There is a special 20% discount (instead of 12% for 4 weeks) for attending at least 3 times every week for 4 weeks  
 - the concept is being trialled and there is also a small number of classes run by experienced coaches at peak hours  
 
