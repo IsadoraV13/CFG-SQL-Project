@@ -8,7 +8,7 @@ QUICK SUMMARY
 - the concept is being trialled and there is also a small number of classes run by experienced coaches at peak hours  
 
 Rules:  
-- 1. A session is defined as at least 45min elapsed between checking in and checking out  
-- 2. Only one session per day counts towards the discount  
-- 3. Because of the 4 weekly incentive, payment is taken via Direct Debit every 4 weeks (not every calendar month)  
-- 4. The discount resets to zero every 4 weeks and the member has to 'earn' their discount again for the next cycle  
+1. A session is defined as at least 45min elapsed between checking in and checking out  
+2. Only one session per day counts towards the discount  
+3. Because of the 4 weekly incentive, payment is taken via Direct Debit every 4 weeks (not every calendar month)  
+4. The discount resets to zero every 4 weeks and the member has to 'earn' their discount again for the next cycle  
